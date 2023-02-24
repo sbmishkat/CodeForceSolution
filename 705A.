@@ -1,7 +1,5 @@
 import java.util.*;
 
-import javax.lang.model.util.ElementScanner14;
-
 public class Hulk {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -26,5 +24,6 @@ public class Hulk {
 
         } else
             System.out.print("I hate it");
+            sc.close();
     }
 }

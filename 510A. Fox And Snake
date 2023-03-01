@@ -11,7 +11,7 @@ public class FoxAndSnake {
                 else {
                     if ( j==1&& i % 4 == 0)
                         System.out.print("#");
-                    else if (j == b&&i % 4 == 0)
+                    else if (j <=b &&i % 4 == 0)
                         System.out.print(".");
                     else if(j < b && i % 2 == 0)
                         System.out.print(".");

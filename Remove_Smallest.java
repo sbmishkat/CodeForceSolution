@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RemoveSmallest {
+public class Remove_Smallest {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean flag = true;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BuyaShovel {
+public class Buy_a_Shovel {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int tt = 0, p = sc.nextInt(), n = sc.nextInt();

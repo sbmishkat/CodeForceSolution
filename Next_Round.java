@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NextRound
+public class Next_Round
 {
     public static void main(String[] args)
     {

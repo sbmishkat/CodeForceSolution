@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WrongSubtraction {
+public class Wrong_Subtraction {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

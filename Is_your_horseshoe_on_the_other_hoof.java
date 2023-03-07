@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Isyourhorseshoeontheotherhoof {
+public class Is_your_horseshoe_on_the_other_hoof {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long[] arr = new long[4];

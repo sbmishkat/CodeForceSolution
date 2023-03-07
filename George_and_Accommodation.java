@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GeorgeAndAccommodation {
+public class George_and_Accommodation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int canstay = 0, time = sc.nextInt();

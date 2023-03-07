@@ -1,5 +1,5 @@
 import java.util.*;
-public class AnthonAndDanik {
+public class Anton_and_Danik {
     public static void main(String[] args){
         Scanner scanner= new Scanner(System.in);
         int acount=0,dcount=0,times =Integer.parseInt(scanner.nextLine());

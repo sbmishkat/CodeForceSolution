@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class PoliceRecruits {
+public class Police_Recruits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int crime = 0, rec = 0, n = sc.nextInt();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BeautifulMatrix
+public class Beautiful_Matrix
 {
     public static void main(String[] args)
     {

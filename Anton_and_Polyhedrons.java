@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AntonandPolyhedrons {
+public class Anton_and_Polyhedrons {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int sum = 0, n = Integer.parseInt(sc.nextLine());

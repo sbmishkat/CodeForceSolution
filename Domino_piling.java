@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Domino
+public class Domino_piling
 {
     public static void main(String[] args)
     {

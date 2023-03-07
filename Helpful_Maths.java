@@ -1,5 +1,5 @@
 import java.util.*;
-public class HelpfulMaths
+public class Helpful_Maths
 {
     public static void main(String[] args)
     {

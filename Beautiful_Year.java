@@ -1,5 +1,5 @@
 import java.util.*;
-public class BeautifulYear {
+public class Beautiful_Year {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int year = scanner.nextInt();

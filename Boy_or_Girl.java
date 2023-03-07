@@ -1,5 +1,5 @@
 import java.util.*;
-public class BoyOrGirl
+public class Boy_or_Girl
 {
     public static void main(String[] args)
     {

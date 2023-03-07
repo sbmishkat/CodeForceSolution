@@ -1,21 +1,24 @@
 import java.util.*;
+
 public class Vanya_and_Fence {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int count=0,arrNum= scanner.nextInt();
-        int height= scanner.nextInt();
+        int count = 0, arrNum = scanner.nextInt();
+        int height = scanner.nextInt();
 
         int[] arr = new int[arrNum];
-        for (int i=0;i<arrNum;i++){
-            arr[i]=scanner.nextInt();
+        for (int i = 0; i < arrNum; i++) {
+            arr[i] = scanner.nextInt();
         }
-        for (int i=0;i<arrNum;i++){
+        for (int i = 0; i < arrNum; i++) {
             count++;
-            if(arr[i]>height){
+            if (arr[i] > height) {
                 count++;
             }
         }
         System.out.println(count);
-     }
+        scanner.close();
+
+    }
 }

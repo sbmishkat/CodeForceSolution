@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class Soldier_and_Bananas {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -6,20 +7,18 @@ public class Soldier_and_Bananas {
         int firstBanana = scanner.nextInt();
         int initialMoney = scanner.nextInt();
         int totalBanana = scanner.nextInt();
-        int borrowMoney,totalCostOfBanana=0;
+        int borrowMoney, totalCostOfBanana = 0;
 
-
-        for(int i=1;i<=totalBanana;i++) {
-            totalCostOfBanana+= (firstBanana*i);
+        for (int i = 1; i <= totalBanana; i++) {
+            totalCostOfBanana += (firstBanana * i);
         }
 
-        if((initialMoney-totalCostOfBanana)<0) {
+        if ((initialMoney - totalCostOfBanana) < 0) {
             borrowMoney = totalCostOfBanana - initialMoney;
             System.out.println(borrowMoney);
-        }else {
+        } else {
             System.out.println("0");
         }
-
-
+        scanner.close();
     }
 }

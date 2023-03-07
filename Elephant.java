@@ -6,9 +6,10 @@ public class Elephant {
 
         int location = scanner.nextInt();
 
-        if(location%5==0)
-            System.out.println(location/5);
+        if (location % 5 == 0)
+            System.out.println(location / 5);
         else
-            System.out.println((location/5)+1);
+            System.out.println((location / 5) + 1);
+        scanner.close();
     }
 }

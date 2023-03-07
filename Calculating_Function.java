@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculatingFunction {
+public class Calculating_Function {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long sum = 0, n = sc.nextLong();

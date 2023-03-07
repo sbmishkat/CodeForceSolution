@@ -1,5 +1,5 @@
 import java.util.*;
-public class SoldierAndBananas {
+public class Soldier_and_Bananas {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

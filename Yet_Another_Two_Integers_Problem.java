@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class YetAnotherTwoIntegersProblem {
+public class Yet_Another_Two_Integers_Problem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int sum = 0, n = sc.nextInt();

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class NewYearandHurry {
+public class New_Year_and_Hurry {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int tt=0,n = sc.nextInt(), k = sc.nextInt();

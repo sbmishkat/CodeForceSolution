@@ -1,5 +1,5 @@
 import java.util.*;
-public class QueueAtTheSchool {
+public class Queue_at_the_School {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 

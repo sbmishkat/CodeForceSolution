@@ -1,5 +1,5 @@
 import java.util.*;
-public class Capitalization
+public class Word_Capitalization
 {
     public static void main(String[] args)
     {

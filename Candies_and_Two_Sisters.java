@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CandiesandTwoSisters {
+public class Candies_and_Two_Sisters {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = 0, t = sc.nextInt();

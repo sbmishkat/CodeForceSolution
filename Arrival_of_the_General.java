@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ArrivaloftheGeneral {
+public class Arrival_of_the_General {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

@@ -1,5 +1,5 @@
 import java.util.*;
-public class NearlyLuckyNumber {
+public class Nearly_Lucky_Number {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         long count=0,number = scanner.nextLong();

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class SumofRoundNumbers {
+public class Sum_of_Round_Numbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int val = 0, inc = 1, temp = 0, n = sc.nextInt();
